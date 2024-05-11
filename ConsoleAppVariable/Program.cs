@@ -4,9 +4,8 @@
     var a = 5;
     var b = 3M;
     var sum = a + b;
-    Console.WriteLine($"");
-    Console.WriteLine(b);
-    Console.WriteLine(sum);
+    Console.WriteLine($"{a} + {b}");
+    Console.WriteLine($"= {sum}");
 
 }
 
